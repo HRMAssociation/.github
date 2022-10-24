@@ -13,7 +13,9 @@
 魔法可以以远超传统手工艺或者工业技术的速度产出精美工艺品，而不是专门提供给那些具备艺术才能的少数人。它有能力完成令人惊叹的壮举，从为机器充能到产生可以切割最坚硬的钢铁的光束。但是魔法并不是一种少数人掌握、并且被严格保守的秘密的技术，任何人都有机会便利地获必要的资料，并且取依照相同的方法来工作。正因如此，魔法也被许多人所恐惧。
 
 ## 魔导结社目前的主要研究项目和成果
-
+电子书：
+- [Introduction To Magic | 魔导绪论](https://github.com/SHMAssociation/IntroductionToMagic)
+- [Fundamental of Pixel Magic | 像素魔法基础](https://magic-book-drafting-committee.gitbook.io/fundamental-of-image-magic/)
 
 ## 如何申请圣•希娜卡纳魔导结社  
 
